@@ -1,4 +1,4 @@
-# 🛡️ [Tu Nombre] | Ingeniero en Sistemas Irvin Alexander Barrera Sabán
+# 🛡️ Irvin Alexander Barrera Sabán | Ingeniero en Sistemas 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Ingeniero%20en%20Sistemas&fontSize=42&fontAlignY=35&desc=.NET%20C%23%20Developer%20%7C%20DBA%20SQL%20Server%20%7C%20SOC-CTIS%20%7C%20Pentesting&descFontSize=18&descAlignY=60&animation=fadeIn" width="100%" />
